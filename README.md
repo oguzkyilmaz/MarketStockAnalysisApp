@@ -5,8 +5,11 @@ Bu proje, geçmiş satış verilerini XGBoost makine öğrenimi modeli kullanara
 
 Kullanılan Teknolojiler:
 
+Makine Öğrenmesi:
 XGBoost(Zaman serisi tahmini), 
+Veritabanı:
 postgreSQL,
+Backend-Frontend:
 FastAPI,
 React
 
