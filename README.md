@@ -1,7 +1,7 @@
 Stok Analiz
 
 
-Bu proje, geçmiş satış verilerini zaman serisi analizi ve XGBoost makine öğrenimi modeli kullanarak gelecekteki ürün stok ihtiyaçlarını 1 aylık periyotlarla tahmin eden bir platformdur. İşletmelerin envanter yönetimini optimize etmesine ve stok fazlası/eksiği sorunlarını minimize etmesine yardımcı olur.
+Bu proje, geçmiş satış verilerini XGBoost makine öğrenimi modeli kullanarak gelecekteki ürün stok ihtiyaçlarını 1 aylık periyotlarla tahmin eden bir platformdur. İşletmelerin envanter yönetimini optimize etmesine ve stok fazlası/eksiği sorunlarını minimize etmesine yardımcı olur.
 
 Kullanılan Teknolojiler:
 
