@@ -1,0 +1,36 @@
+.navbar {
+  display: flex;
+  gap: 1.5em;
+  background: #fdfdfd;
+  padding: 1em 2em;
+  border-radius: 12px;
+  margin-bottom: 2em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+.nav-link {
+  color: #080808;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1.08em;
+  padding: 0.5em 1.1em;
+  border-radius: 8px;
+  transition: background 0.2s, color 0.2s;
+}
+
+.nav-link:hover, .nav-link.active {
+  background: #bbbbbb;
+  color: #ffffff;
+}
+
+@media (max-width: 600px) {
+  .navbar {
+    flex-direction: column;
+    gap: 0.7em;
+    padding: 1em;
+  }
+  .nav-link {
+    width: 100%;
+    text-align: left;
+  }
+}

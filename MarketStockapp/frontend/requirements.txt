@@ -1,0 +1,9 @@
+# React tabanlı frontend için gerekli ana kütüphaneler (npm ile yüklenir)
+# Bu dosya sadece bilgi amaçlıdır, yükleme için package.json kullanılır.
+
+# Eğer ek araçlar veya entegrasyonlar (örn. axios, styled-components) istenirse buraya eklenebilir.
+react
+react-dom
+# Örnek ek kütüphaneler:
+# axios
+# styled-components
