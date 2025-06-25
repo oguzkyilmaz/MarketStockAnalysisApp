@@ -7,8 +7,10 @@ Kullanılan Teknolojiler:
 
 Makine Öğrenmesi:
 XGBoost(Zaman serisi tahmini), 
+
 Veritabanı:
 postgreSQL,
+
 Backend-Frontend:
 FastAPI,
 React
