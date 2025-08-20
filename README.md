@@ -15,6 +15,8 @@ Backend-Frontend:
 FastAPI,
 React
 
+Containerization: Docker, Docker Compose
+
 ![image](https://github.com/user-attachments/assets/ec40d432-5d79-4a69-8776-527bad94f2f4)
 
 ![image](https://github.com/user-attachments/assets/7aedbf26-71d4-41b8-850c-daee8ce523d2)
